@@ -24,7 +24,7 @@
       "APP_NAME": {FileStreamBot
           "description": "Copy-Paste the app name that you just typed above."
       },
-      "API_ID": {14631157
+      "API_ID": {14631157 
           "description": "Get this value from https://my.telegram.org"
       },
       "API_HASH": {aa7c2b3be68a7488abdb9de6ce78d311
