@@ -21,16 +21,16 @@
           "description": "Set this to True if you don't want to crash the bot",
           "value": "True"
       },
-      "APP_NAME": {
+      "APP_NAME": {FileStreamBot
           "description": "Copy-Paste the app name that you just typed above."
       },
-      "API_ID": {
+      "API_ID": {14631157
           "description": "Get this value from https://my.telegram.org"
       },
-      "API_HASH": {
+      "API_HASH": {aa7c2b3be68a7488abdb9de6ce78d311
           "description": "Get this value from https://my.telegram.org"
       },
-      "BOT_TOKEN": {
+      "BOT_TOKEN": {5927429053:AAGNa4VeQEOM5_Fj_mmq-21OqB6qr308DDU
           "description": "Get this value from @BotFather"
       },
       "BIN_CHANNEL": {
@@ -44,7 +44,7 @@
       "DATABASE_URL": {
           "description": "MongoDB URI for saving User IDs when they first Start the Bot. We will use that for Broadcasting to them. I will try to add more features related with Database. If you need help to get the URI you can ask in Support Group: https://t.me/linux_repo"
       },
-      "OWNER_ID": {
+      "OWNER_ID": {5380833276
           "description": "Your Telegram User ID"
       },
       "BANNED_CHANNELS": {
